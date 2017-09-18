@@ -3,4 +3,5 @@
 cd /root/prt
 python setup.py install
 
+cp /usr/lib/plexmediaserver/Plex\ Transcoder /usr/lib/plexmediaserver/plex_transcoder
 prt overwrite
