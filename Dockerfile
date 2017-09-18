@@ -15,6 +15,7 @@ RUN \
       xmlstarlet \
       uuid-runtime \
       python \
+      python-setuptools \
       python-termcolor \
       python-psutil \
     && \
