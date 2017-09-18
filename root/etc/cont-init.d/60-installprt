@@ -2,3 +2,5 @@
 
 cd /root/prt
 python setup.py install
+
+prt overwrite
