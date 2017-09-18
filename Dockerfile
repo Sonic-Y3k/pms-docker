@@ -14,6 +14,9 @@ RUN \
       curl \
       xmlstarlet \
       uuid-runtime \
+      python \
+      python-termcolor \
+      python-psutil \
     && \
 
 # Fetch and extract S6 overlay
